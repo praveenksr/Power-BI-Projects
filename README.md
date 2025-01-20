@@ -19,3 +19,5 @@ To analyze product sales and customer feedback across different cities and state
 ## Trend Analysis KPIs
 * Sales Over Time: Tracks sales trends by date to identify peak periods or seasonal patterns (Sales By Date chart).
 * Growth Rate of Sales: Percentage increase or decrease in sales over a specific time frame.
+
+Dashboard <a href="https://github.com/praveenksr/Power-BI-Projects/blob/main/Amazon%20Dashboard.png">Dashboard<a/>
