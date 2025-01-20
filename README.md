@@ -22,3 +22,6 @@ To analyze product sales and customer feedback across different cities and state
 
 ## Dashboard 
 .<a href="https://github.com/praveenksr/Power-BI-Projects/blob/main/Amazon%20Dashboard.png">Dashboard<a/>
+
+Image of the Dashboard
+![Amazon Dashboard](https://github.com/user-attachments/assets/f689057a-2557-4933-b3f4-2f295021d8b9)
